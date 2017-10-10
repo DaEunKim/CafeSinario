@@ -1,0 +1,18 @@
+{
+   "barista0" : {
+      "id" : 0,
+      "name" : "Chang-Hyun"
+   },
+   "barista1" : {
+      "id" : 1,
+      "name" : "Ji-Hyo"
+   },
+   "barista2" : {
+      "id" : 2,
+      "name" : "Han-Ul"
+   },
+   "barista3" : {
+      "id" : 3,
+      "name" : "Da-Eun"
+   }
+}
